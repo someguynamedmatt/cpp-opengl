@@ -1,3 +1,3 @@
 # C++: OpenGL
 
-> `g++ <file>.cpp -o <output> -lGL -lglut -lGLEW`
+> `g++ <file>.cpp -o <output> -lGL -lglut -lGLEW -lGLU`
